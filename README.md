@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon/icon.png" width="180" alt="Brocr App Icon" />
+  <img src="icon.png" width="180" alt="Brocr App Icon" />
 </p>
 
 <h1 align="center">Brocr</h1>
